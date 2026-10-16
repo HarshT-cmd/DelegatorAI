@@ -1,0 +1,12 @@
+.venv/
+.env
+google-service-account*.json
+*service-account*.json
+*service_account*.json
+__pycache__/
+*.py[cod]
+*.db
+*.db-journal
+.pytest_cache/
+.coverage
+htmlcov/

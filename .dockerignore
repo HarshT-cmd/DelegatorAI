@@ -1,0 +1,11 @@
+.git
+.venv
+.env
+*.db
+*.db-journal
+__pycache__
+.pytest_cache
+.coverage
+htmlcov
+*service-account*.json
+*service_account*.json
